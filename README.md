@@ -6,13 +6,13 @@ It includes animations, dark mode, a projects showcase, and is fully responsive 
 ---
 
 ## 📋 Table of Contents
-1. [Introduction](#introduction)  
-2. [Tech Stack](#tech-stack)  
-3. [Features](#features)  
-4. [Quick Start](#quick-start)  
-5. [Screenshots](#screenshots)  
-6. [Deployment](#deployment)  
-7. [Useful Links](#useful-links)  
+- Introduction  
+- Tech Stack  
+- Features  
+- Quick Start  
+- Screenshots  
+- Deployment  
+- Useful Links  
 
 ---
 
